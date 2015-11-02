@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaCodecPlayer</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_play">Play</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_pause">Pause</string>
+
+    <string name="action_retriever">Retriever</string>
+
+</resources>
